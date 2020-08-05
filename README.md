@@ -15,3 +15,6 @@ test-orchestrator with go mod
 支持API以及WEB两种模式，WEB调用API接口，开发比较方面。open-falcon项目使用gin-gonic开发API接口，WEB界面使用Python Flask开发。
 
 
+## Discover机制
+
+具体参照[docs/discover](https://github.com/dolphinsboy/test-orchestrator/blob/master/docs/discover.md)
