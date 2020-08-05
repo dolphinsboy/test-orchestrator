@@ -18,3 +18,7 @@ test-orchestrator with go mod
 ## Discover机制
 
 具体参照[docs/discover](https://github.com/dolphinsboy/test-orchestrator/blob/master/docs/discover.md)
+
+## Raft
+
+具体参照说明[docs/raft](https://github.com/dolphinsboy/test-orchestrator/blob/master/docs/raft.md)
