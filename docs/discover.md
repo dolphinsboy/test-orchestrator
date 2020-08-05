@@ -5,7 +5,7 @@
 - WEB页面
 
 
-![image-20200805114555955](/Users/guosong/GoglandProjects/src/github.com/dolphinsboy/test-orchestrator/docs/assets/image-20200805114555955.png)
+![image-20200805114555955](assets/image-20200805114555955.png)
 
 - Templates代码
 
@@ -17,7 +17,7 @@
 
   其主要是调用/api/discover/hostname/port接口，然后进行页面渲染(在discover.js:discover(hostname，port)函数中实现)
 
-![image-20200805115158378](/Users/guosong/GoglandProjects/src/github.com/dolphinsboy/test-orchestrator/docs/assets/image-20200805115158378.png)
+![image-20200805115158378](assets/image-20200805115158378.png)
 
 这里消息的通知是调用resources/public/js/orchestrator.js中的addAlert函数实现，其是在resources/templates/layout.tmpl中的div
 
